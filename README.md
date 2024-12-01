@@ -1,1 +1,2 @@
-# tokyo-olympic-data-2021
+# tokyo-olympic-azure-data-engineering-project
+tokyo-olympic-azure-data-engineering-project
